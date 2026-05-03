@@ -1,0 +1,10 @@
+{
+  "categories": [
+    { "slug": "start", "title": "С чего начать", "icon": "Rocket", "isFolder": true },
+    { "slug": "rules", "title": "Правила", "icon": "Scroll", "isFolder": true },
+    { "slug": "mechanics", "title": "Механики", "icon": "Settings", "isFolder": true },
+    { "slug": "commands", "title": "Команды", "icon": "Terminal", "isFolder": true },
+    { "slug": "subs", "title": "Подписки", "icon": "Banknote", "isFolder": true },
+    { "slug": "contacts", "title": "Контакты", "icon": "Mail", "isFolder": true }
+  ]
+}
