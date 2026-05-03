@@ -1,6 +1,0 @@
-{
-  "categories": [
-    { "slug": "mechanics", "title": "Механики", "icon": "Settings" },
-    { "slug": "subs", "title": "Подписки", "icon": "Banknote" }
-  ]
-}
